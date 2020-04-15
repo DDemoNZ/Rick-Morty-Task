@@ -1,4 +1,4 @@
-package com.test.proj.rick_morty;
+package com.test.proj.rickandmorty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
