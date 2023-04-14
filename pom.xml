@@ -25,7 +25,7 @@
         <maven.checkstyle.plugin.configLocation>
             https://raw.githubusercontent.com/mate-academy/style-guides/master/java/checkstyle.xml
         </maven.checkstyle.plugin.configLocation>
-        <org.json.version>20190722</org.json.version>
+        <org.json.version>20230227</org.json.version>
     </properties>
 
     <dependencies>
